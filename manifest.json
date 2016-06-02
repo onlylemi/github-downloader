@@ -1,0 +1,44 @@
+{
+  "manifest_version": 2,
+
+  "name": "Download Any For Github",
+  "description": "Download any files or floders from repository in GitHub.",
+  "version": "1.0",
+
+  "homepage_url": "http://github.com/onlylemi",
+
+  "icons": {
+    "16": "icon/icon-16.png",
+    "32": "icon/icon-32.png",
+    "128": "icon/icon-128.png"
+  },
+
+  "permissions": [
+    "tabs",
+    "*://github.com/*/*"
+  ],
+  "background": {
+    "scripts": [
+      "js/background.js"
+    ]
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://github.com/*/*"
+      ],
+      "css": [
+        "css/main.css"
+      ],
+      "js": [
+        "js/jquery.min.js",
+        "js/FileSaver.min.js",
+        "js/jszip.min.js",
+        "js/API.js",
+        "js/content.js"
+      ],
+      "run_at": "document_end",
+      "all_frames": false
+    }
+  ]
+}

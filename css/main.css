@@ -1,0 +1,18 @@
+table.files td.download {
+    width: 16px;
+    text-align: right;
+    padding-right: 6px;
+    color: #6DBE51;
+}
+
+.display-none{
+	display: none;
+}
+
+.loading{
+	position: relative;
+    top: 3px;
+    display: inline-block;
+    margin-top: -3px;
+    margin-left: -2px;
+}
