@@ -16,7 +16,7 @@ Let we look named [butterknife](https://github.com/JakeWharton/butterknife) repo
 
 ### Method 1
 
-Download [`download-any-for-github.crx`](https://github.com/onlylemi/download-any-for-github/releases) file and drop `Chrome Extension` to install. 
+Download [`download-any-for-github.crx`](https://github.com/onlylemi/download-any-for-github/blob/master/download-any-for-github.crx) file and drop `Chrome Extension` to install. 
 
 ### Method 2
 
