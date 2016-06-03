@@ -5,7 +5,7 @@
   "description": "Download any files or floders from repository in GitHub.",
   "version": "1.0",
 
-  "homepage_url": "http://github.com/onlylemi",
+  "homepage_url": "https://github.com/onlylemi/download-any-for-github",
 
   "icons": {
     "16": "icon/icon-16.png",
@@ -14,7 +14,6 @@
   },
 
   "permissions": [
-    "tabs",
     "*://github.com/*/*"
   ],
   "background": {

@@ -12,6 +12,16 @@ Let we look named [butterknife](https://github.com/JakeWharton/butterknife) repo
 
 ![](https://raw.githubusercontent.com/onlylemi/res/master/download-any-for-github-preview.png)
 
+## Install
+
+### Method 1
+
+Download [`download-any-for-github.crx`](https://github.com/onlylemi/download-any-for-github/releases) file and drop `Chrome Extension` to install. 
+
+### Method 2
+
+If method 1 doesn't work. Download this repository and unzip it, then load the folder(click `load upacked extension`) in `Chrome Extension`(on developer mode). 
+
 ## Thanks
 
 * [gitzip](https://github.com/KinoLien/gitzip)
