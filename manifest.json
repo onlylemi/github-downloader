@@ -1,11 +1,11 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
 
-  "name": "Download Any For Github",
-  "description": "Download any files or floders from repository in GitHub.",
-  "version": "1.0",
+  "name": "Github Downloader",
+  "description": "Download any files or floders in repository for GitHub.",
+  "version": "2.0",
 
-  "homepage_url": "https://github.com/onlylemi/download-any-for-github",
+  "homepage_url": "https://github.com/onlylemi/github-downloader",
 
   "icons": {
     "16": "icon/icon-16.png",
